@@ -1,5 +1,8 @@
 _repo: Die-Religion-innerhalb-der-Grenzen-der-blo0xdfen-Vernunft-Text-der-Ausgabe-1793-mit-Beifugung__56182
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56182-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Kant, Immanuel
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '48708'
     url: http://www.gutenberg.org/2009/agents/48708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56182#Die-Religion-innerhalb-der-Grenzen-der-blo0xdfen-Vernunft-Text-der-Ausgabe-1793-mit-Beifugung_
 gutenberg_issued: '2017-12-15'
 gutenberg_type: Text
 identifiers:
